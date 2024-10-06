@@ -1,0 +1,1 @@
+# Prueba1_GLCD_JHD12864E_45k50.X
